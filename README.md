@@ -13,19 +13,21 @@ Task 2 : Is there a relationship between income and loan amount for approved loa
 
 Task 3 : What specific factors can be added that influence the decision what is the reason behind this choice? And create a model that can be used to predict the loan outcomes 
 
-Dataset: 
-Column	- Description
-Loan id	- Unique ID for each loan application
-No of dependent	- Number of dependents of the applicant
-Education -	Applicant’s education level
-Self employed -	Whether the applicant is self-employed
-Income annum	- Annual income of the applicant
-Loan amount	- Loan amount requested
-Loan term	- Term of the loan in months
-Cibil score	- CIBIL score of the applicant (credit score)
-Residential asset	- Value of residential assets owned by applicant
-Commercial asset - Value of commercial assets owned by applicant
-Luxury asset	- Value of luxury asset owned by applicant
-Bank asset	- Value of bank assets owned by the applicant
-Loan decision	- Whether the loan was approved or rejected
+**Dataset:** 
+| Columns  | Description |
+| ------------- | ------------- |
+| loan id | Unique ID for each loan application |
+| no of dependents | Number of dependents of the applicant |
+| education | Applicant's education level |
+| self employed | 	Whether the applicant is self-employed |
+| income annum | Annual income of the applicant |
+| loan amount | Amount of the loan requested |
+| loan term | Term of the loan in months |
+| cibil_score | Applicant's CIBIL score (credit score) |
+| residential_asset_value |	Values of residential asset owned by the applicant |
+| commercial_asset_value | Values of commercial asset owned by the applicant |
+| luxury_asset_values | Values of luxury asset owned by the applicant |
+| bank_asset_values | Values of bank asset owned by the applicant |
+| loan_status |	Whether the loan was approved or rejected |
+
 
